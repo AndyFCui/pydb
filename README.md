@@ -3,10 +3,16 @@
 Brief: 
 
 This program is working for the build basic action for 'librarydb' task.
+
 Author: Andy(Xiang-Yu) Cui
+
 Date: Mar 23, 2023
+
 python: 3.8
+
 package: pymysql
+
+
 
 Application Running Steps:
 
